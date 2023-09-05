@@ -1,0 +1,6 @@
+Flask
+requests
+SQLAlchemy
+pydantic
+pydantic_core
+psycopg2
